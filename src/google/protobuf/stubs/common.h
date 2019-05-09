@@ -38,6 +38,7 @@
 #include <assert.h>
 #include <stdlib.h>
 #include <cstddef>
+#include <algorithm>
 #include <string>
 #include <string.h>
 #if defined(__osf__)
